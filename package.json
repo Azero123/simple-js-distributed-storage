@@ -1,0 +1,27 @@
+{
+  "name": "simple-js-distributed-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azero123/simple-js-distributed-storage.git"
+  },
+  "keywords": [
+    "distributed",
+    "storage",
+    "database"
+  ],
+  "author": "Azero123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azero123/simple-js-distributed-storage/issues"
+  },
+  "homepage": "https://github.com/Azero123/simple-js-distributed-storage#readme",
+  "dependencies": {
+    "simple-js-hash-store": "^1.0.6"
+  }
+}
